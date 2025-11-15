@@ -1,2 +1,2 @@
-# Resume_Optimizer_and_Job_Recommendation_System
-The Resume Optimizer and Job Recommendation System project aims to sim plify the job application and recruitment process by leveraging an advanced digital  platform with AI-driven functionalities.
+# Job_Portal_with_Resume_Analyzer
+The Job_Portal_with_Resume_Analyzer is the project aims to simplify the job application and recruitment process by leveraging an advanced digital  platform with AI-driven functionalities.
